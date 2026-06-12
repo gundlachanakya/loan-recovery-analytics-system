@@ -1,7 +1,7 @@
 Loan Recovery Analytics System
 📌 Project Overview
 
-This project focuses on optimizing vehicle loan recovery operations using Data Analytics and Machine Learning techniques. The study was conducted for S.A. Associates, a vehicle loan recovery agency based in Siddipet, Telangana.
+This project focuses on optimizing vehicle loan recovery operations using Data Analytics and Machine Learning techniques. The study was conducted for a rvehicle loan recovery agency.
 
 The project analyzes real-world loan recovery data to identify patterns affecting recovery success, improve operational efficiency, and support data-driven decision-making.
 
